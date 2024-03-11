@@ -124,7 +124,7 @@ $conn->close();
             </div>
             <div class="row mt-5 mx-0 justify-content-center align-items-center">
                 <div class="col-lg-3 px-md-3 px-0 col-md-4 col-12 card-wrapper">
-                    <a href="http://localhost/protfolio/samsung.html">
+                    <a href="http://127.0.0.1:5500/samsung.html">
                         <div class="card mt-4">
                             <img src="https://cdn.dribbble.com/userupload/3772713/file/still-fc903bb220a0746203642bc9bce89e08.png?resize=400x0"
                                 class="img-fluid" alt="portfolio-img">
@@ -148,19 +148,19 @@ $conn->close();
                 </div>
             </div>
             <div class="col-lg-3 px-md-3 px-0 col-md-4 card-wrapper">
-                <a href="http://127.0.0.1:5500/calulator.html8">
+                <a href="http://127.0.0.1:5500/Travel/Travel.html">
                     <div class="card mt-4">
-                        <img src="https://miro.medium.com/v2/resize:fit:1400/1*5GvXOhl7TB9PTMeUvVyiuA.png"
+                        <img src="https://www.wildstone.in/cdn/shop/articles/Things-You-Should-Keep-In-Mind-While-Traveling.jpg?v=1660050621"
                             class="img-fluid" alt="portfolio-img">
                         <div class="card-body text-center">
-                            <h6 class="card-title">Calculator </h6>
+                            <h6 class="card-title">Traveling web </h6>
                             <p class="card-text text-secondary">HTML/CSS/JavaScript</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-3 px-md-3 px-0 col-md-4 card-wrapper">
-                <a href="http://localhost/protfolio/blogining.html">
+                <a href="http://127.0.0.1:5500/blogining.html">
                     <div class="card mt-4">
                         <img src="https://images04.nicepage.com/feature/461183/website-blog.jpg" class="img-fluid"
                             alt="portfolio-img">
@@ -172,7 +172,7 @@ $conn->close();
                 </a>
             </div>
             <div class="col-lg-3 px-md-3 px-0 col-md-4 card-wrapper">
-                <a href="http://localhost/protfolio/task%20manager.html">
+                <a href="http://127.0.0.1:5500/task%20manager.html">
                     <div class="card mt-4">
                         <img src="https://themeforest.img.customer.envatousercontent.com/files/411228393/00_Preview_Image.jpg.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=ab5628456fb816f75a868ed8e09da319"
                             class="img-fluid" alt="portfolio-img">
@@ -184,13 +184,13 @@ $conn->close();
                 </a>
             </div>
             <div class="col-lg-3 px-md-3 px-0 col-md-4 card-wrapper">
-                <a href="http://localhost/protfolio/graph.html">
+                <a href="http://127.0.0.1:5500/GYM%20web/GYM.html">
                     <div class="card mt-4">
-                        <img src="https://designshack.net/wp-content/uploads/nfl-data.jpg" class="img-fluid"
+                        <img src="https://www.mindlabpro.com/cdn/shop/articles/Nootropics_for_Bodybuilding_1024x1024.jpg?v=1583863634" class="img-fluid"
                             alt="portfolio-img">
                         <div class="card-body text-center">
-                            <h6 class="card-title">Data Visualization website</h6>
-                            <p class="card-text text-secondary">HTML/CSS/Javascript</p>
+                            <h6 class="card-title">GYM website</h6>
+                            <p class="card-text text-secondary">HTML/CSS</p>
                         </div>
                     </div>
                 </a>
